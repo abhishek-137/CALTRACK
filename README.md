@@ -1,4 +1,5 @@
 # Calorie-Tracker
+<br />
 How to start the Project
 
 - fork the repo.
@@ -12,8 +13,11 @@ Installing/ To Run Steps
 - 2 Now on terminal type python manage.py runserver.
 - 4 Now ctrl+click on "http://127.0.0.1:8000/."
 
+<br /><br /><br />
 Snapshot of the Calorie Tracker Website
+<br /><br /><br />
 ![image](https://user-images.githubusercontent.com/65975981/189993382-6699b5db-14c6-49a6-96f2-bd598c36f06a.png)
+<br /><br />
 ![image](https://user-images.githubusercontent.com/65975981/189993992-a813912b-fda9-4ea7-8011-aebbc823a471.png)
-
+<br /><br />
 ![image](https://user-images.githubusercontent.com/65975981/189993458-d57cc7c9-8b71-494f-a172-8a1984071e86.png)
